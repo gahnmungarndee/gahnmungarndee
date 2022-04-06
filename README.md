@@ -7,4 +7,3 @@
   [![Website Badge](https://img.shields.io/badge/Website-dimgray?logo=goodreads&logoColor=white&style=for-the-badge)](https://itsgahndi.github.io/)
 
 </div>
-
